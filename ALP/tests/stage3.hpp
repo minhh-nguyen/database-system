@@ -18,7 +18,7 @@
 #include <cstdint>
 #include <random>
 
-#include "../include/ALP.h"
+#include "../include/ALP.hpp"
 #include "harness.hpp"
 
 namespace alp::test {

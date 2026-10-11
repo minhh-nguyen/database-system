@@ -1,4 +1,4 @@
-#include "../include/ALP.h"
+#include "../include/ALP.hpp"
 #include <cstdio>
 
 namespace alp {
