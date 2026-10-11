@@ -8,6 +8,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(alp
     src/main.cpp
+    src/ALP.cpp
 )
 target_include_directories(alp PRIVATE include)
 
